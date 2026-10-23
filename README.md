@@ -38,4 +38,4 @@ Follow these steps to get your local copy up and running:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/suyashkaranjkar/FoodRescueAI-SpringBoot.git](https://github.com/suyashkaranjkar/FoodRescueAI-SpringBoot.git)
+git clone https://github.com/shrutichitlange27/FoodRescueAI-SpringBoot.git
